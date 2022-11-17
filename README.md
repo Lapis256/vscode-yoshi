@@ -1,0 +1,2 @@
+# vscode-yoshi
+**ヨシ!**
